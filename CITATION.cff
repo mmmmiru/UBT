@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si me usas, porfis cítame"
+title: "UBT"
+version: "1.0"
+date-released: 2025-05-28
+url: "https://github.com/mmmmiru/UBT"
+doi: "10.5281/zenodo.15538605"
+authors:
+  - family-names: "Díaz Hernández"
+    given-names: "Miranda"
+    orcid: "https://orcid.org/0000-0001-7835-4827"
